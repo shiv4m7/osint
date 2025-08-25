@@ -9,8 +9,8 @@ from telegram.ext import (ApplicationBuilder, CommandHandler, MessageHandler,
                           CallbackQueryHandler, ContextTypes, filters)
 
 # Bot config
-BOT_TOKEN = "Bot Token "
-ADMIN_ID = 7072631107
+BOT_TOKEN = "8109327658:AAFPgtKc1ZM42FSa3iBI6ti0LVPC_hLH698"
+ADMIN_ID = 6000036430
 FORCE_JOIN_CHANNEL = "testv3c"
 DB_PATH = "user_data.db"
 BOT_CREATED_DATE = "03.07.2025"
